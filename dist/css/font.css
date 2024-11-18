@@ -1,0 +1,15 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../fonts/work-sans-v19-latin/work-sans-v19-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../fonts/hind-siliguri-v12-latin/hind-siliguri-v12-latin-700.woff2') format('woff2');
+}

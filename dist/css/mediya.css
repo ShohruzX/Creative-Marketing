@@ -1,0 +1,201 @@
+@media screen and (max-width: 376px) {
+  .container {
+    width: 375px;
+  }
+
+  .header ul {
+    display: none;
+  }
+
+  .header__btn {
+    display: none;
+  }
+
+  .burger__menu {
+    display: block;
+  }
+
+  .wrapper {
+    flex-wrap: wrap-reverse;
+  }
+
+  .hero__img {
+    width: 357px;
+    height: 357px;
+  }
+
+  .about__content {
+    flex-direction: column;
+  }
+
+  .about__img {
+    width: 367px;
+    height: 367px;
+  }
+
+  .about__list {
+    flex-wrap: wrap;
+  }
+
+  .about__item {
+    width: 310px;
+  }
+
+  .portfolio__list img {
+    width: 329px;
+    height: 222px;
+  }
+
+  .features__content {
+    flex-direction: column;
+  }
+
+  .features__box {
+	width: 329px;
+  }
+
+  .features__img {
+    width: 342px;
+    height: 380px;
+  }
+
+  .features__title {
+    font-size: 40px;
+  }
+
+  .portfolio__logos {
+    gap: 40px 20px;
+    flex-wrap: wrap;
+  }
+
+  .service__content {
+    flex-direction: column;
+  }
+
+  .service__box {
+	width: 338px;
+  }
+
+  .service__list {
+    flex-direction: column;
+  }
+
+  .technology {
+	padding: 62px 23px;
+  }
+
+  .technology__box {
+	width: 329px;
+  }
+
+  .footer__list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hr {
+    flex-direction: column;
+  }
+
+  .footer__title {
+    margin-top: 50px;
+  }
+
+  .hrt {
+    flex-direction: column;
+  }
+
+  .footer__desc {
+    text-align: center;
+  }
+
+  .articles__list {
+    flex-wrap: wrap;
+  }
+
+  .articles__list img {
+    width: 296px;
+  }
+
+  .portfolio__desc,
+  .team__desc {
+    width: 329px;
+  }
+
+  .testimonials__img {
+    width: 342px;
+    height: 275px;
+  }
+
+  .service__content img {
+    width: 368;
+    height: 294px;
+  }
+
+  .testimonials__content {
+    flex-direction: column;
+  }
+
+  .testimonials__title {
+    font-size: 40px;
+    margin-left: 65px;
+  }
+
+  .company__info__box {
+    flex-wrap: wrap;
+    row-gap: 59px;
+  }
+
+  .company__title {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1px;
+  }
+
+  .company__btn {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+  }
+
+  .company__img {
+    left: 57px;
+  }
+
+  .company__form__box {
+    flex-wrap: wrap;
+    row-gap: 36px;
+  }
+
+  .company__form {
+    flex-wrap: wrap;
+    row-gap: 16px;
+  }
+
+  .articles__title {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1px;
+    text-align: center;
+  }
+
+  .articles__box {
+	width: 329px;
+  }
+
+  .articles__content {
+	flex-wrap: wrap;
+	text-align: center;
+  }
+
+  .about__content img {
+	width: 296px;
+	margin-bottom: 25px;
+  }
+
+  .testimonials__list {
+	width: 329px;
+  }
+}
